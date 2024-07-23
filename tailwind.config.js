@@ -6,9 +6,9 @@ module.exports = {
   ],
   theme: {
     extend: {
-      backgroundImage:{
-        "hero-image": "url('src/assets/green-assist-solar.png')"
-      },
+      // backgroundImage:{
+      //   "hero-image": ""
+      // },
       padding:{
         sm:"20px",
         md: "30px",

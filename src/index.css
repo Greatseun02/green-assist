@@ -26,4 +26,5 @@ body{
     background-repeat: no-repeat;
     background-color: #347C17;
     background-blend-mode: multiply;
+  background-image: url("./assets/green-assist-solar.png");
 }
