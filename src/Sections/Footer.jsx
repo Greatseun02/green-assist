@@ -20,7 +20,7 @@ export default function Footer({cta}) {
                     </p>
                 </div>
             
-                <p>goodnews.adewole9@gmail.com</p>
+                <p>goodnews@greenassit.info</p>
             </div>
             <div className='bg-black px-sm py-16 md:px-20 '>
                 <p className='font-medium text-[42px] fira-sans mb-5'>Contact Form</p>
